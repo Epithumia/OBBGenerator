@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div>
+      <o-b-b-generator />
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import OBBGenerator from './components/OBBGenerator'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    OBBGenerator
   }
 }
 </script>
