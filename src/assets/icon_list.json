@@ -1,0 +1,618 @@
+{
+    "001": {
+        "name": "360 View",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/001-360 view.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/001-360 view.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/001-360 view.svg"
+            }
+        }
+    },
+    "002": {
+        "name": "360 Degree",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/002-360 degree.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/002-360 degree.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/002-360 degree.svg"
+            }
+        }
+    },
+    "003": {
+        "name": "Rotation",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/003-rotation.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/003-rotation.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/003-rotation.svg"
+            }
+        }
+    },
+    "004": {
+        "name": "Vr Glasses",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/004-vr glasses.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/004-vr glasses.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/004-vr glasses.svg"
+            }
+        }
+    },
+    "005": {
+        "name": "Virtual Reality",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/005-virtual reality.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/005-virtual reality.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/005-virtual reality.svg"
+            }
+        }
+    },
+    "006": {
+        "name": "Infrared",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/006-infrared.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/006-infrared.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/006-infrared.svg"
+            }
+        }
+    },
+    "007": {
+        "name": "Browser",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/007-browser.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/007-browser.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/007-browser.svg"
+            }
+        }
+    },
+    "008": {
+        "name": "Vr Gaming",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/008-vr gaming.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/008-vr gaming.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/008-vr gaming.svg"
+            }
+        }
+    },
+    "009": {
+        "name": "Desktop Computer",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/009-desktop computer.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/009-desktop computer.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/009-desktop computer.svg"
+            }
+        }
+    },
+    "010": {
+        "name": "Smartphone",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/010-smartphone.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/010-smartphone.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/010-smartphone.svg"
+            }
+        }
+    },
+    "011": {
+        "name": "Attachment",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/011-attachment.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/011-attachment.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/011-attachment.svg"
+            }
+        }
+    },
+    "012": {
+        "name": "Cell Phone",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/012-cell phone.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/012-cell phone.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/012-cell phone.svg"
+            }
+        }
+    },
+    "013": {
+        "name": "Rotation",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/013-rotation.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/013-rotation.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/013-rotation.svg"
+            }
+        }
+    },
+    "014": {
+        "name": "Motion",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/014-motion.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/014-motion.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/014-motion.svg"
+            }
+        }
+    },
+    "015": {
+        "name": "Technology",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/015-technology.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/015-technology.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/015-technology.svg"
+            }
+        }
+    },
+    "016": {
+        "name": "Smartphone",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/016-smartphone.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/016-smartphone.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/016-smartphone.svg"
+            }
+        }
+    },
+    "017": {
+        "name": "Cell Phone",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/017-cell phone.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/017-cell phone.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/017-cell phone.svg"
+            }
+        }
+    },
+    "018": {
+        "name": "Design",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/018-design.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/018-design.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/018-design.svg"
+            }
+        }
+    },
+    "019": {
+        "name": "Tech",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/019-tech.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/019-tech.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/019-tech.svg"
+            }
+        }
+    },
+    "020": {
+        "name": "User",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/020-user.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/020-user.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/020-user.svg"
+            }
+        }
+    },
+    "021": {
+        "name": "Bug",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/021-bug.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/021-bug.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/021-bug.svg"
+            }
+        }
+    },
+    "022": {
+        "name": "Chat",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/022-chat.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/022-chat.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/022-chat.svg"
+            }
+        }
+    },
+    "023": {
+        "name": "Secure",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/023-secure.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/023-secure.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/023-secure.svg"
+            }
+        }
+    },
+    "024": {
+        "name": "Data Transfer",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/024-data transfer.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/024-data transfer.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/024-data transfer.svg"
+            }
+        }
+    },
+    "025": {
+        "name": "Technology Products",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/025-technology products.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/025-technology products.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/025-technology products.svg"
+            }
+        }
+    },
+    "026": {
+        "name": "Virtual Reality",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/026-virtual reality.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/026-virtual reality.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/026-virtual reality.svg"
+            }
+        }
+    },
+    "027": {
+        "name": "Lock",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/027-lock.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/027-lock.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/027-lock.svg"
+            }
+        }
+    },
+    "028": {
+        "name": "Favorite",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/028-favorite.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/028-favorite.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/028-favorite.svg"
+            }
+        }
+    },
+    "029": {
+        "name": "Rotate",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/029-rotate.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/029-rotate.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/029-rotate.svg"
+            }
+        }
+    },
+    "030": {
+        "name": "Immersive",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/030-immersive.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/030-immersive.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/030-immersive.svg"
+            }
+        }
+    },
+    "031": {
+        "name": "Rotation Lock",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/031-rotation lock.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/031-rotation lock.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/031-rotation lock.svg"
+            }
+        }
+    },
+    "032": {
+        "name": "Smartwatch",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/032-smartwatch.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/032-smartwatch.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/032-smartwatch.svg"
+            }
+        }
+    },
+    "033": {
+        "name": "Technology",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/033-technology.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/033-technology.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/033-technology.svg"
+            }
+        }
+    },
+    "034": {
+        "name": "Phone",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/034-phone.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/034-phone.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/034-phone.svg"
+            }
+        }
+    },
+    "035": {
+        "name": "Vr Glasses",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/035-vr glasses.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/035-vr glasses.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/035-vr glasses.svg"
+            }
+        }
+    },
+    "036": {
+        "name": "Browser",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/036-browser.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/036-browser.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/036-browser.svg"
+            }
+        }
+    },
+    "037": {
+        "name": "Internet",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/037-internet.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/037-internet.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/037-internet.svg"
+            }
+        }
+    },
+    "038": {
+        "name": "Wifi",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/038-wifi.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/038-wifi.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/038-wifi.svg"
+            }
+        }
+    },
+    "039": {
+        "name": "Wireless Connection",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/039-wireless connection.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/039-wireless connection.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/039-wireless connection.svg"
+            }
+        }
+    },
+    "040": {
+        "name": "Video",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/040-video.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/040-video.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/040-video.svg"
+            }
+        }
+    },
+    "041": {
+        "name": "Vr Glasses",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/041-vr glasses.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/041-vr glasses.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/041-vr glasses.svg"
+            }
+        }
+    },
+    "042": {
+        "name": "Vr Glasses",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/042-vr glasses.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/042-vr glasses.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/042-vr glasses.svg"
+            }
+        }
+    },
+    "043": {
+        "name": "Vr Glasses",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/043-vr glasses.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/043-vr glasses.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/043-vr glasses.svg"
+            }
+        }
+    },
+    "044": {
+        "name": "Wireless Internet",
+        "types": {
+            "filled": {
+                "path": "/icons/filled/044-wireless internet.svg"
+            },
+            "flat": {
+                "path": "/icons/flat/044-wireless internet.svg"
+            },
+            "lcolor": {
+                "path": "/icons/lcolor/044-wireless internet.svg"
+            }
+        }
+    }
+}

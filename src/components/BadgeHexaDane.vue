@@ -96,7 +96,7 @@
         <text stroke="none" font-family="Open Sans" id="universite-text-dane" stroke-width="1px"
               text-rendering="geometricPrecision" fill="url(#palette4)" font-size="26px" text-anchor="start"
         >
-            <textPath href="#universite-path-dane" startOffset="0%" style='white-space:pre'>{{univText}}</textPath>
+            <textPath href="#universite-path-dane" startOffset="0%" style='white-space:pre'>{{params.univText}}</textPath>
         </text>
         <path id="pedago-path-dane"
               style="font-variation-settings:normal"
@@ -108,7 +108,7 @@
         <text stroke="none" font-family="Open Sans" id="universite-text-dane" stroke-width="1px"
               text-rendering="geometricPrecision" fill="url(#palette4)" font-size="26px" text-anchor="middle"
         >
-            <textPath href="#pedago-path-dane" startOffset="50%" style='white-space:pre'>{{skillText}}</textPath>
+            <textPath href="#pedago-path-dane" startOffset="50%" style='white-space:pre'>{{params.skillText}}</textPath>
         </text>
         <g id="g648"
            word-spacing="0px"
@@ -132,7 +132,7 @@
                            fill="url(#palette3)"
                            y="142.77855"
                            x="103.06813">
-                        CONTINUATEUR-TRICE
+                        {{params.cartoucheTitreBadge}}
                     </tspan>
                 </text>
                 <text id="text627"
@@ -149,19 +149,19 @@
                            text-align="center"
                            y="115.09375"
                            x="103.03402">
-                        AGILITÉ
+                        {{params.texteBadge1}}
                     </tspan>
                     <tspan id="pedagogique-svg"
                            text-align="center"
                            y="125.14066"
                            x="103.03402">
-                        PÉDADOGIQUE
+                        {{params.texteBadge2}}
                     </tspan>
                     <tspan id="covid19-svg"
                            text-align="center"
                            y="135.18758"
                            x="103.03402">
-                        COVID-19
+                        {{params.texteBadge3}}
                     </tspan>
                 </text>
             </g>
@@ -176,7 +176,7 @@
                    fill="url(#palette3)"
                    y="290"
                    x="150">
-                2019
+                {{params.anneeDebut}}
             </tspan>
         </text>
         <text id="text-year-end">
@@ -188,9 +188,12 @@
                    fill="url(#palette3)"
                    y="290"
                    x="250">
-                2020
+                {{params.anneeFin}}
             </tspan>
         </text>
+        <g fill="url(#palette3)">
+            <use x="180" y="280" width="40" height="40" :xlink:href="iconPath+'#icon'" />
+        </g>
     </g>
 </template>
 
@@ -212,6 +215,14 @@
             univText: {
                 type: String,
                 default: ''
+            },
+            iconPath: {
+                type: String,
+                default: ''
+            },
+            params: {
+                type: Object,
+                default: null
             }
         }
     }
