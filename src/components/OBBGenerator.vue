@@ -226,11 +226,11 @@
                     let itypes = Object.keys(icons[key].types)
                     let nt = Math.min(Math.round(rng() * itypes.length), itypes.length - 1)
                     let t = icons[key]['types'][itypes[nt]]
-                    return t.path
+                    return window.location.href+t.path
                 }
                 if (!this.selectedIcon) return ''
                 if (!this.selectedType) return ''
-                return icons[this.selectedIcon].types[this.selectedType].path
+                return window.location.href+icons[this.selectedIcon].types[this.selectedType].path
             },
             optionsIcons: function () {
                 let opts = []
