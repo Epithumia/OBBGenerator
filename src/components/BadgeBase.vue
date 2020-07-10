@@ -79,6 +79,10 @@
             baseColor: {
                 type: String,
                 default: "#000000"
+            },
+            secondaryColor: {
+                type: String,
+                default: "#ffffff"
             }
         },
         computed: {
@@ -92,10 +96,10 @@
                 return this.lightenBy(Color(this.color1), 0.75).hex()
             },
             color4: function () {
-                return Color(this.color1).rotate(180).hex()
+                return this.secondaryColor
             },
             color5: function () {
-                return this.lightenBy(Color(this.color1).rotate(180), 0.5).hex()
+                return this.lightenBy(Color(this.color4), 0.5).hex()
             },
             scaledWidth: function () {
                 return Math.round(this.width * this.scale)

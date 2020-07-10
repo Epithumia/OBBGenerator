@@ -3,7 +3,9 @@
         <div class="row justify-content-center">
             <div :class="selected ? 'col-md-8 mx-auto' : 'col-md-12'">
                 <div id="openbbadgeSVG" v-if="selected">
-                    <badge-base :uuid="params.uuid" :base-color="baseColor" :is-random="params.randomize">
+                    <badge-base :uuid="params.uuid" :base-color="baseColor"
+                                :secondary-color="secondaryColor"
+                                :is-random="params.randomize">
                         <badge-circle v-if="selected==='cercle'"
                                       :params="params"
                         />
@@ -18,7 +20,10 @@
                 </div>
                 <div v-else style="display: flex">
                     <div>
-                        <badge-base :uuid="params.uuid" :base-color="baseColor" :is-random="params.randomize">
+                        <badge-base :uuid="params.uuid"
+                                    :base-color="baseColor"
+                                    :secondary-color="secondaryColor"
+                                    :is-random="params.randomize">
                             <badge-hexa-dane :params="params"
                                              :icon-path="iconPath"
                             />
@@ -63,25 +68,51 @@
             </div>
         </div>
         <div class="row justify-content-center mt-3" v-if="!params.randomize">
-            <div class="col-md-8 mx-auto">
-                <b-input-group prepend="Couleur de base" size="sm">
-                <b-form-input type="color" v-model="params.xBaseColor" class="col-md-2"></b-form-input>
-                    <b-input-group-append>
-                        <b-form-input type="text" v-model="params.xBaseColor" class="col-md-5"  size="sm"></b-form-input>
-                    </b-input-group-append>
+            <div class="col-md-2"></div>
+            <div class="col-md-4">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Couleur de base
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-input type="color" v-model="params.xBaseColor"></b-form-input>
+                    <b-form-input type="text" v-model="params.xBaseColor" class="col-md-3"></b-form-input>
                 </b-input-group>
             </div>
+            <div class="col-md-4">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Couleur secondaire
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-input type="color" v-model="params.xSecondaryColor"></b-form-input>
+                    <b-form-input type="text" v-model="params.xSecondaryColor" class="col-md-3"></b-form-input>
+                </b-input-group>
+            </div>
+            <div class="col-md-2"></div>
         </div>
         <div class="row justify-content-center" v-if="!params.randomize">
             <div class="col-md-2"></div>
             <div class="col-md-4">
-                <b-input-group prepend="Année de début" size="sm">
-                    <b-form-input type="text" v-model="params.anneeDebut" class="col-md-3"></b-form-input>
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Année de début
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-input type="text" v-model="params.anneeDebut"></b-form-input>
                 </b-input-group>
             </div>
             <div class="col-md-4">
-                <b-input-group prepend="Année de fin" size="sm">
-                    <b-form-input type="text" v-model="params.anneeFin" class="col-md-3"></b-form-input>
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Année de fin
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-input type="text" v-model="params.anneeFin"></b-form-input>
                 </b-input-group>
             </div>
             <div class="col-md-2"></div>
@@ -89,12 +120,22 @@
         <div class="row justify-content-center" v-if="!params.randomize">
             <div class="col-md-2"></div>
             <div class="col-md-4">
-                <b-input-group prepend="Emetteur" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Emetteur
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.univText" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
             <div class="col-md-4">
-                <b-input-group prepend="Catégorie" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Catégorie
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.skillText" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
@@ -103,12 +144,22 @@
         <div class="row justify-content-center" v-if="!params.randomize">
             <div class="col-md-2"></div>
             <div class="col-md-4">
-                <b-input-group prepend="Corps badge 1" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Corps badge 1
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.texteBadge1" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
             <div class="col-md-4">
-                <b-input-group prepend="Corps badge 2" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Corps badge 2
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.texteBadge2" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
@@ -117,12 +168,22 @@
         <div class="row justify-content-center" v-if="!params.randomize">
             <div class="col-md-2"></div>
             <div class="col-md-4">
-                <b-input-group prepend="Corps badge 3" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Corps badge 3
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.texteBadge3" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
             <div class="col-md-4">
-                <b-input-group prepend="Titre" size="sm">
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Titre
+                        </b-input-group-text>
+                    </b-input-group-prepend>
                     <b-form-input type="text" v-model="params.cartoucheTitreBadge" class="col-md-12"></b-form-input>
                 </b-input-group>
             </div>
@@ -131,13 +192,23 @@
         <div class="row justify-content-center" v-if="!params.randomize">
             <div class="col-md-2"></div>
             <div class="col-md-4">
-                <b-input-group prepend="Icone du badge" size="sm">
-                    <b-form-select v-model="selectedIcon" :options="optionsIcons"></b-form-select>
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Style de l'icone
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-select v-model="selectedType" :options="optionsTypes"></b-form-select>
                 </b-input-group>
             </div>
             <div class="col-md-4">
-                <b-input-group prepend="Style de l'icone" size="sm">
-                    <b-form-select v-model="selectedType" :options="optionsTypes"></b-form-select>
+                <b-input-group size="sm">
+                    <b-input-group-prepend>
+                        <b-input-group-text style="width: 140px">
+                            Icone du badge
+                        </b-input-group-text>
+                    </b-input-group-prepend>
+                    <b-form-select v-model="selectedIcon" :options="optionsIcons"></b-form-select>
                 </b-input-group>
             </div>
             <div class="col-md-2"></div>
@@ -169,19 +240,20 @@
                 options: [
                     {value: null, text: 'Choisir une forme de base'},
                     {value: 'hexadane', text: 'Hexagone (DANE)'},
-                    {value: 'hexa', text: 'Hexagone'},
-                    {value: 'cercle', text: 'Cercle'}
+                    {value: 'hexa', text: 'Hexagone (WIP)'},
+                    {value: 'cercle', text: 'Cercle (WIP)'}
                 ],
                 params: {
                     randomize: true,
                     xBaseColor: "#04B053",
+                    xSecondaryColor: "#b00449",
                     innerRotation: 0,
                     outerRotation: 0,
                     univText: "Université de Montcuq",
                     skillText: "Pédagogie",
                     cartoucheTitreBadge: "CONTINUATEUR-TRICE",
                     anneeDebut: 2019,
-                    anneeFin:2020,
+                    anneeFin: 2020,
                     texteBadge1: "AGILITÉ",
                     texteBadge2: "PÉDADOGIQUE",
                     texteBadge3: "COVID-19",
@@ -203,47 +275,61 @@
                 link.target = "_blank";
                 link.download = "Illustration1.svg";
                 link.href = url;
+            },
+            randomColor: function () {
+                let r = Math.round(this.rng() * 255).toString()
+                let g = Math.round(this.rng() * 255).toString()
+                let b = Math.round(this.rng() * 255).toString()
+                return Color('rgb(' + r + ',' + g + ',' + b + ')').hex()
             }
         },
         computed: {
+            rng: function () {
+                return seedrandom(this.params.uuid + '\0')
+            },
             baseColor: function () {
                 if (this.params.randomize) {
-                    let rng = seedrandom(this.params.uuid)
-                    let r = Math.round(rng() * 255).toString()
-                    let g = Math.round(rng() * 255).toString()
-                    let b = Math.round(rng() * 255).toString()
-                    return Color('rgb(' + r + ',' + g + ',' + b + ')').hex()
+                    return this.randomColor()
                 }
                 return this.params.xBaseColor
             },
+            secondaryColor: function () {
+                if (this.params.randomize) {
+                    return this.randomColor()
+                }
+                return this.params.xSecondaryColor
+            },
             iconPath: function () {
                 if (this.params.randomize) {
-                    let keys = Object.keys(icons)
-                    let nb = keys.length
-                    let rng = seedrandom(this.params.uuid)
-                    let n = Math.min(Math.round(rng() * nb), nb - 1)
-                    let key = keys[n]
-                    let itypes = Object.keys(icons[key].types)
-                    let nt = Math.min(Math.round(rng() * itypes.length), itypes.length - 1)
-                    let t = icons[key]['types'][itypes[nt]]
-                    return window.location.href+t.path
+                    let keys = Object.keys(icons) // Types possibles
+                    let nb = keys.length          // Nb de types
+                    //let rng = seedrandom(this.params.uuid)
+                    let n = Math.min(Math.round(this.rng() * nb), nb - 1) // Tirage au sort
+                    let key = keys[n] // Type tiré au sort
+                    let icon_list = icons[key]
+                    let icon_keys = Object.keys(icon_list)
+                    let icon_key = Math.min(Math.round(this.rng() * icon_keys.length), icon_keys.length - 1)
+                    let icon = icon_list[icon_keys[icon_key]]
+                    return window.location.href + icon.path
                 }
-                if (!this.selectedIcon) return ''
                 if (!this.selectedType) return ''
-                return window.location.href+icons[this.selectedIcon].types[this.selectedType].path
+                if (!this.selectedIcon || !(this.selectedIcon in icons[this.selectedType])) return ''
+                return window.location.href + icons[this.selectedType][this.selectedIcon].path
             },
             optionsIcons: function () {
+                if (!this.selectedType) return []
                 let opts = []
-                for (let key of Object.keys(icons)){
-                    opts.push({value: key, text: icons[key].name})
+                let icon_list = icons[this.selectedType]
+                for (let key of Object.keys(icon_list)) {
+                    opts.push({value: key, text: icon_list[key].name})
                 }
+                console.log(opts)
+                opts.sort((a, b) => (a.text.localeCompare(b.text)))
                 return opts
             },
             optionsTypes: function () {
-                if (!this.selectedIcon) return []
-                let icon = icons[this.selectedIcon]
                 let opts = []
-                for (let t of Object.keys(icon.types)) {
+                for (let t of Object.keys(icons)) {
                     opts.push({value: t, text: t})
                 }
                 return opts
@@ -257,18 +343,18 @@
                 // setter
                 set: function (newValue) {
                     this.selectIcon = newValue
-                    if (this.selectIcon && !this.selectType && this.optionsTypes.length > 0) this.selectedType = this.optionsTypes[0].value
                 }
             },
             selectedType: {
                 // getter
                 get: function () {
-                    if (this.selectedIcon && !this.selectType && this.optionsTypes.length > 0) return this.optionsTypes[0].value
+                    if (!this.selectType && this.optionsTypes.length > 0) return this.optionsTypes[0].value
                     return this.selectType
                 },
                 // setter
                 set: function (newValue) {
                     this.selectType = newValue
+                    if (this.selectType && !this.selectIcon && this.optionsIcons.length > 0) return this.optionsIcons[0].value
                 }
             }
         }
