@@ -1,618 +1,2182 @@
 {
-    "001": {
-        "name": "360 View",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/001-360 view.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/001-360 view.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/001-360 view.svg"
-            }
+    "filled": {
+        "001": {
+            "name": "360 View",
+            "path": "/icons/filled/001-360 view.svg"
+        },
+        "002": {
+            "name": "360 Degree",
+            "path": "/icons/filled/002-360 degree.svg"
+        },
+        "003": {
+            "name": "Rotation",
+            "path": "/icons/filled/003-rotation.svg"
+        },
+        "004": {
+            "name": "Vr Glasses",
+            "path": "/icons/filled/004-vr glasses.svg"
+        },
+        "005": {
+            "name": "Virtual Reality",
+            "path": "/icons/filled/005-virtual reality.svg"
+        },
+        "006": {
+            "name": "Infrared",
+            "path": "/icons/filled/006-infrared.svg"
+        },
+        "007": {
+            "name": "Browser",
+            "path": "/icons/filled/007-browser.svg"
+        },
+        "008": {
+            "name": "Vr Gaming",
+            "path": "/icons/filled/008-vr gaming.svg"
+        },
+        "009": {
+            "name": "Desktop Computer",
+            "path": "/icons/filled/009-desktop computer.svg"
+        },
+        "010": {
+            "name": "Smartphone",
+            "path": "/icons/filled/010-smartphone.svg"
+        },
+        "011": {
+            "name": "Attachment",
+            "path": "/icons/filled/011-attachment.svg"
+        },
+        "012": {
+            "name": "Cell Phone",
+            "path": "/icons/filled/012-cell phone.svg"
+        },
+        "013": {
+            "name": "Rotation",
+            "path": "/icons/filled/013-rotation.svg"
+        },
+        "014": {
+            "name": "Motion",
+            "path": "/icons/filled/014-motion.svg"
+        },
+        "015": {
+            "name": "Technology",
+            "path": "/icons/filled/015-technology.svg"
+        },
+        "016": {
+            "name": "Smartphone",
+            "path": "/icons/filled/016-smartphone.svg"
+        },
+        "017": {
+            "name": "Cell Phone",
+            "path": "/icons/filled/017-cell phone.svg"
+        },
+        "018": {
+            "name": "Design",
+            "path": "/icons/filled/018-design.svg"
+        },
+        "019": {
+            "name": "Tech",
+            "path": "/icons/filled/019-tech.svg"
+        },
+        "020": {
+            "name": "User",
+            "path": "/icons/filled/020-user.svg"
+        },
+        "021": {
+            "name": "Bug",
+            "path": "/icons/filled/021-bug.svg"
+        },
+        "022": {
+            "name": "Chat",
+            "path": "/icons/filled/022-chat.svg"
+        },
+        "023": {
+            "name": "Secure",
+            "path": "/icons/filled/023-secure.svg"
+        },
+        "024": {
+            "name": "Data Transfer",
+            "path": "/icons/filled/024-data transfer.svg"
+        },
+        "025": {
+            "name": "Technology Products",
+            "path": "/icons/filled/025-technology products.svg"
+        },
+        "026": {
+            "name": "Virtual Reality",
+            "path": "/icons/filled/026-virtual reality.svg"
+        },
+        "027": {
+            "name": "Lock",
+            "path": "/icons/filled/027-lock.svg"
+        },
+        "028": {
+            "name": "Favorite",
+            "path": "/icons/filled/028-favorite.svg"
+        },
+        "029": {
+            "name": "Rotate",
+            "path": "/icons/filled/029-rotate.svg"
+        },
+        "030": {
+            "name": "Immersive",
+            "path": "/icons/filled/030-immersive.svg"
+        },
+        "031": {
+            "name": "Rotation Lock",
+            "path": "/icons/filled/031-rotation lock.svg"
+        },
+        "032": {
+            "name": "Smartwatch",
+            "path": "/icons/filled/032-smartwatch.svg"
+        },
+        "033": {
+            "name": "Technology",
+            "path": "/icons/filled/033-technology.svg"
+        },
+        "034": {
+            "name": "Phone",
+            "path": "/icons/filled/034-phone.svg"
+        },
+        "035": {
+            "name": "Vr Glasses",
+            "path": "/icons/filled/035-vr glasses.svg"
+        },
+        "036": {
+            "name": "Browser",
+            "path": "/icons/filled/036-browser.svg"
+        },
+        "037": {
+            "name": "Internet",
+            "path": "/icons/filled/037-internet.svg"
+        },
+        "038": {
+            "name": "Wifi",
+            "path": "/icons/filled/038-wifi.svg"
+        },
+        "039": {
+            "name": "Wireless Connection",
+            "path": "/icons/filled/039-wireless connection.svg"
+        },
+        "040": {
+            "name": "Video",
+            "path": "/icons/filled/040-video.svg"
+        },
+        "041": {
+            "name": "Vr Glasses",
+            "path": "/icons/filled/041-vr glasses.svg"
+        },
+        "042": {
+            "name": "Vr Glasses",
+            "path": "/icons/filled/042-vr glasses.svg"
+        },
+        "043": {
+            "name": "Vr Glasses",
+            "path": "/icons/filled/043-vr glasses.svg"
+        },
+        "044": {
+            "name": "Wireless Internet",
+            "path": "/icons/filled/044-wireless internet.svg"
+        },
+        "domo001": {
+            "name": "Smart Home",
+            "path": "/icons/filled/domo001-smart home.svg"
+        },
+        "domo002": {
+            "name": "Cctv",
+            "path": "/icons/filled/domo002-cctv.svg"
+        },
+        "domo003": {
+            "name": "Smartphone",
+            "path": "/icons/filled/domo003-smartphone.svg"
+        },
+        "domo004": {
+            "name": "Light Bulb",
+            "path": "/icons/filled/domo004-light bulb.svg"
+        },
+        "domo005": {
+            "name": "Thermometer",
+            "path": "/icons/filled/domo005-thermometer.svg"
+        },
+        "domo006": {
+            "name": "Phone",
+            "path": "/icons/filled/domo006-phone.svg"
+        },
+        "domo007": {
+            "name": "Key",
+            "path": "/icons/filled/domo007-key.svg"
+        },
+        "domo008": {
+            "name": "Toilet",
+            "path": "/icons/filled/domo008-toilet.svg"
+        },
+        "domo009": {
+            "name": "Fridge",
+            "path": "/icons/filled/domo009-fridge.svg"
+        },
+        "domo010": {
+            "name": "Lamp",
+            "path": "/icons/filled/domo010-lamp.svg"
+        },
+        "domo011": {
+            "name": "Swimming Pool",
+            "path": "/icons/filled/domo011-swimming pool.svg"
+        },
+        "domo012": {
+            "name": "Smart Lock",
+            "path": "/icons/filled/domo012-smart lock.svg"
+        },
+        "domo013": {
+            "name": "Computer",
+            "path": "/icons/filled/domo013-computer.svg"
+        },
+        "domo014": {
+            "name": "Computing Cloud",
+            "path": "/icons/filled/domo014-computing cloud.svg"
+        },
+        "domo015": {
+            "name": "Solar Panel",
+            "path": "/icons/filled/domo015-solar panel.svg"
+        },
+        "domo016": {
+            "name": "Power",
+            "path": "/icons/filled/domo016-power.svg"
+        },
+        "domo017": {
+            "name": "Battery",
+            "path": "/icons/filled/domo017-battery.svg"
+        },
+        "domo018": {
+            "name": "Pan",
+            "path": "/icons/filled/domo018-pan.svg"
+        },
+        "domo019": {
+            "name": "Coffee Machine",
+            "path": "/icons/filled/domo019-coffee machine.svg"
+        },
+        "domo020": {
+            "name": "Speaker",
+            "path": "/icons/filled/domo020-speaker.svg"
+        },
+        "domo021": {
+            "name": "Clock",
+            "path": "/icons/filled/domo021-clock.svg"
+        },
+        "domo022": {
+            "name": "Eye",
+            "path": "/icons/filled/domo022-eye.svg"
+        },
+        "domo023": {
+            "name": "Sensor",
+            "path": "/icons/filled/domo023-sensor.svg"
+        },
+        "domo024": {
+            "name": "Padlock",
+            "path": "/icons/filled/domo024-padlock.svg"
+        },
+        "domo025": {
+            "name": "Plant",
+            "path": "/icons/filled/domo025-plant.svg"
+        },
+        "domo026": {
+            "name": "Safebox",
+            "path": "/icons/filled/domo026-safebox.svg"
+        },
+        "domo027": {
+            "name": "Robot Vacuum",
+            "path": "/icons/filled/domo027-robot vacuum.svg"
+        },
+        "domo028": {
+            "name": "Telephone",
+            "path": "/icons/filled/domo028-telephone.svg"
+        },
+        "domo029": {
+            "name": "Sprinkler",
+            "path": "/icons/filled/domo029-sprinkler.svg"
+        },
+        "domo030": {
+            "name": "Oven",
+            "path": "/icons/filled/domo030-oven.svg"
+        },
+        "domo031": {
+            "name": "Cctv",
+            "path": "/icons/filled/domo031-cctv.svg"
+        },
+        "domo032": {
+            "name": "Remote Control",
+            "path": "/icons/filled/domo032-remote control.svg"
+        },
+        "domo033": {
+            "name": "Window",
+            "path": "/icons/filled/domo033-window.svg"
+        },
+        "domo034": {
+            "name": "Voice Control",
+            "path": "/icons/filled/domo034-voice control.svg"
+        },
+        "domo035": {
+            "name": "Air Conditioner",
+            "path": "/icons/filled/domo035-air conditioner.svg"
+        },
+        "domo036": {
+            "name": "Plug",
+            "path": "/icons/filled/domo036-plug.svg"
+        },
+        "domo037": {
+            "name": "Garage",
+            "path": "/icons/filled/domo037-garage.svg"
+        },
+        "domo038": {
+            "name": "Smart House",
+            "path": "/icons/filled/domo038-smart house.svg"
+        },
+        "domo039": {
+            "name": "Fingerprint",
+            "path": "/icons/filled/domo039-fingerprint.svg"
+        },
+        "domo040": {
+            "name": "Fireplace",
+            "path": "/icons/filled/domo040-fireplace.svg"
+        },
+        "domo041": {
+            "name": "Motion Sensor",
+            "path": "/icons/filled/domo041-motion sensor.svg"
+        },
+        "domo042": {
+            "name": "Cup",
+            "path": "/icons/filled/domo042-cup.svg"
+        },
+        "domo043": {
+            "name": "Password",
+            "path": "/icons/filled/domo043-password.svg"
+        },
+        "domo044": {
+            "name": "Heating",
+            "path": "/icons/filled/domo044-heating.svg"
+        },
+        "domo045": {
+            "name": "Smart Home",
+            "path": "/icons/filled/domo045-smart home.svg"
+        },
+        "domo046": {
+            "name": "Alarm",
+            "path": "/icons/filled/domo046-alarm.svg"
+        },
+        "domo047": {
+            "name": "Smartwatch",
+            "path": "/icons/filled/domo047-smartwatch.svg"
+        },
+        "domo048": {
+            "name": "Chair",
+            "path": "/icons/filled/domo048-chair.svg"
+        },
+        "domo049": {
+            "name": "Pipes",
+            "path": "/icons/filled/domo049-pipes.svg"
+        },
+        "domo050": {
+            "name": "Washing Machine",
+            "path": "/icons/filled/domo050-washing machine.svg"
+        },
+        "hf001": {
+            "name": "Ballons",
+            "path": "/icons/filled/hf001-ballons.svg"
+        },
+        "hf002": {
+            "name": "Basket",
+            "path": "/icons/filled/hf002-basket.svg"
+        },
+        "hf003": {
+            "name": "Bat",
+            "path": "/icons/filled/hf003-bat.svg"
+        },
+        "hf004": {
+            "name": "Beer",
+            "path": "/icons/filled/hf004-beer.svg"
+        },
+        "hf005": {
+            "name": "Candle",
+            "path": "/icons/filled/hf005-candle.svg"
+        },
+        "hf006": {
+            "name": "Candy",
+            "path": "/icons/filled/hf006-candy.svg"
+        },
+        "hf007": {
+            "name": "Castle",
+            "path": "/icons/filled/hf007-castle.svg"
+        },
+        "hf008": {
+            "name": "Cauldron",
+            "path": "/icons/filled/hf008-cauldron.svg"
+        },
+        "hf009": {
+            "name": "Fence",
+            "path": "/icons/filled/hf009-fence.svg"
+        },
+        "hf010": {
+            "name": "Coffin",
+            "path": "/icons/filled/hf010-coffin.svg"
+        },
+        "hf011": {
+            "name": "Dracula",
+            "path": "/icons/filled/hf011-dracula.svg"
+        },
+        "hf012": {
+            "name": "Flag",
+            "path": "/icons/filled/hf012-flag.svg"
+        },
+        "hf013": {
+            "name": "Frankenstein",
+            "path": "/icons/filled/hf013-frankenstein.svg"
+        },
+        "hf014": {
+            "name": "Ghost",
+            "path": "/icons/filled/hf014-ghost.svg"
+        },
+        "hf015": {
+            "name": "Ghost",
+            "path": "/icons/filled/hf015-ghost.svg"
+        },
+        "hf016": {
+            "name": "Ghost",
+            "path": "/icons/filled/hf016-ghost.svg"
+        },
+        "hf017": {
+            "name": "Ghost",
+            "path": "/icons/filled/hf017-ghost.svg"
+        },
+        "hf018": {
+            "name": "Grave",
+            "path": "/icons/filled/hf018-grave.svg"
+        },
+        "hf019": {
+            "name": "Grave",
+            "path": "/icons/filled/hf019-grave.svg"
+        },
+        "hf020": {
+            "name": "Grave",
+            "path": "/icons/filled/hf020-grave.svg"
+        },
+        "hf021": {
+            "name": "Lantern",
+            "path": "/icons/filled/hf021-lantern.svg"
+        },
+        "hf022": {
+            "name": "Mummy",
+            "path": "/icons/filled/hf022-mummy.svg"
+        },
+        "hf023": {
+            "name": "Mummy",
+            "path": "/icons/filled/hf023-mummy.svg"
+        },
+        "hf024": {
+            "name": "Night",
+            "path": "/icons/filled/hf024-night.svg"
+        },
+        "hf025": {
+            "name": "Moon",
+            "path": "/icons/filled/hf025-moon.svg"
+        },
+        "hf026": {
+            "name": "Potion",
+            "path": "/icons/filled/hf026-potion.svg"
+        },
+        "hf027": {
+            "name": "Pumpkin",
+            "path": "/icons/filled/hf027-pumpkin.svg"
+        },
+        "hf028": {
+            "name": "Scripture",
+            "path": "/icons/filled/hf028-scripture.svg"
+        },
+        "hf029": {
+            "name": "Scythe",
+            "path": "/icons/filled/hf029-scythe.svg"
+        },
+        "hf030": {
+            "name": "Mask",
+            "path": "/icons/filled/hf030-mask.svg"
+        },
+        "hf031": {
+            "name": "Skull",
+            "path": "/icons/filled/hf031-skull.svg"
+        },
+        "hf032": {
+            "name": "Bible",
+            "path": "/icons/filled/hf032-bible.svg"
+        },
+        "hf033": {
+            "name": "Tombstone",
+            "path": "/icons/filled/hf033-tombstone.svg"
+        },
+        "hf034": {
+            "name": "Grave",
+            "path": "/icons/filled/hf034-grave.svg"
+        },
+        "hf035": {
+            "name": "Trunk",
+            "path": "/icons/filled/hf035-trunk.svg"
+        },
+        "hf036": {
+            "name": "Voodoo Doll",
+            "path": "/icons/filled/hf036-voodoo doll.svg"
+        },
+        "prog001": {
+            "name": "Password",
+            "path": "/icons/filled/prog001-password.svg"
+        },
+        "prog002": {
+            "name": "Server",
+            "path": "/icons/filled/prog002-server.svg"
+        },
+        "prog003": {
+            "name": "Wall",
+            "path": "/icons/filled/prog003-wall.svg"
+        },
+        "prog004": {
+            "name": "Code",
+            "path": "/icons/filled/prog004-code.svg"
+        },
+        "prog005": {
+            "name": "Security",
+            "path": "/icons/filled/prog005-security.svg"
+        },
+        "prog006": {
+            "name": "Upload",
+            "path": "/icons/filled/prog006-upload.svg"
+        },
+        "prog007": {
+            "name": "Server",
+            "path": "/icons/filled/prog007-server.svg"
+        },
+        "prog008": {
+            "name": "Cpu",
+            "path": "/icons/filled/prog008-cpu.svg"
+        },
+        "prog009": {
+            "name": "Cpu",
+            "path": "/icons/filled/prog009-cpu.svg"
+        },
+        "prog010": {
+            "name": "Code",
+            "path": "/icons/filled/prog010-code.svg"
+        },
+        "prog011": {
+            "name": "Code",
+            "path": "/icons/filled/prog011-code.svg"
+        },
+        "prog012": {
+            "name": "Folder",
+            "path": "/icons/filled/prog012-folder.svg"
+        },
+        "prog013": {
+            "name": "Server",
+            "path": "/icons/filled/prog013-server.svg"
+        },
+        "prog014": {
+            "name": "Virus",
+            "path": "/icons/filled/prog014-virus.svg"
+        },
+        "prog015": {
+            "name": "Key",
+            "path": "/icons/filled/prog015-key.svg"
+        },
+        "prog016": {
+            "name": "Cpu",
+            "path": "/icons/filled/prog016-cpu.svg"
+        },
+        "prog017": {
+            "name": "Code",
+            "path": "/icons/filled/prog017-code.svg"
+        },
+        "prog018": {
+            "name": "Magnifying Glass",
+            "path": "/icons/filled/prog018-magnifying glass.svg"
+        },
+        "prog019": {
+            "name": "Gear",
+            "path": "/icons/filled/prog019-gear.svg"
+        },
+        "prog020": {
+            "name": "Chronometer",
+            "path": "/icons/filled/prog020-chronometer.svg"
+        },
+        "prog021": {
+            "name": "Code",
+            "path": "/icons/filled/prog021-code.svg"
+        },
+        "prog022": {
+            "name": "Keyboard",
+            "path": "/icons/filled/prog022-keyboard.svg"
+        },
+        "prog023": {
+            "name": "Lightbulb",
+            "path": "/icons/filled/prog023-lightbulb.svg"
+        },
+        "prog024": {
+            "name": "Shield",
+            "path": "/icons/filled/prog024-shield.svg"
+        },
+        "prog025": {
+            "name": "Cloud Computing",
+            "path": "/icons/filled/prog025-cloud computing.svg"
+        },
+        "prog026": {
+            "name": "Modem",
+            "path": "/icons/filled/prog026-modem.svg"
+        },
+        "prog027": {
+            "name": "Server",
+            "path": "/icons/filled/prog027-server.svg"
+        },
+        "prog028": {
+            "name": "Virus",
+            "path": "/icons/filled/prog028-virus.svg"
+        },
+        "prog029": {
+            "name": "Global",
+            "path": "/icons/filled/prog029-global.svg"
+        },
+        "prog030": {
+            "name": "Modem",
+            "path": "/icons/filled/prog030-modem.svg"
+        },
+        "prog031": {
+            "name": "Folder",
+            "path": "/icons/filled/prog031-folder.svg"
+        },
+        "prog032": {
+            "name": "Cloud Computing",
+            "path": "/icons/filled/prog032-cloud computing.svg"
+        },
+        "prog033": {
+            "name": "Cpu",
+            "path": "/icons/filled/prog033-cpu.svg"
+        },
+        "prog034": {
+            "name": "Ram",
+            "path": "/icons/filled/prog034-ram.svg"
+        },
+        "prog035": {
+            "name": "Code",
+            "path": "/icons/filled/prog035-code.svg"
+        },
+        "prog036": {
+            "name": "Code",
+            "path": "/icons/filled/prog036-code.svg"
+        },
+        "prog037": {
+            "name": "Global",
+            "path": "/icons/filled/prog037-global.svg"
+        },
+        "prog038": {
+            "name": "Server",
+            "path": "/icons/filled/prog038-server.svg"
+        },
+        "prog039": {
+            "name": "Upload",
+            "path": "/icons/filled/prog039-upload.svg"
+        },
+        "prog040": {
+            "name": "Code",
+            "path": "/icons/filled/prog040-code.svg"
+        },
+        "prog041": {
+            "name": "Security",
+            "path": "/icons/filled/prog041-security.svg"
+        },
+        "prog042": {
+            "name": "Firewall",
+            "path": "/icons/filled/prog042-firewall.svg"
+        },
+        "prog043": {
+            "name": "Lock",
+            "path": "/icons/filled/prog043-lock.svg"
+        },
+        "prog044": {
+            "name": "Gear",
+            "path": "/icons/filled/prog044-gear.svg"
+        },
+        "prog045": {
+            "name": "Download",
+            "path": "/icons/filled/prog045-download.svg"
+        },
+        "prog046": {
+            "name": "Code",
+            "path": "/icons/filled/prog046-code.svg"
+        },
+        "prog047": {
+            "name": "Mouse",
+            "path": "/icons/filled/prog047-mouse.svg"
+        },
+        "prog048": {
+            "name": "Computer",
+            "path": "/icons/filled/prog048-computer.svg"
+        },
+        "prog049": {
+            "name": "Code",
+            "path": "/icons/filled/prog049-code.svg"
+        },
+        "prog050": {
+            "name": "Security",
+            "path": "/icons/filled/prog050-security.svg"
+        },
+        "retro001": {
+            "name": "Camera",
+            "path": "/icons/filled/retro001-camera.svg"
+        },
+        "retro002": {
+            "name": "Lollipop",
+            "path": "/icons/filled/retro002-lollipop.svg"
+        },
+        "retro003": {
+            "name": "Classic Car",
+            "path": "/icons/filled/retro003-classic car.svg"
+        },
+        "retro004": {
+            "name": "Camper Van",
+            "path": "/icons/filled/retro004-camper van.svg"
+        },
+        "retro005": {
+            "name": "Cassette",
+            "path": "/icons/filled/retro005-cassette.svg"
+        },
+        "retro006": {
+            "name": "Wall Clock",
+            "path": "/icons/filled/retro006-wall clock.svg"
+        },
+        "retro007": {
+            "name": "Computer",
+            "path": "/icons/filled/retro007-computer.svg"
+        },
+        "retro008": {
+            "name": "Disc",
+            "path": "/icons/filled/retro008-disc.svg"
+        },
+        "retro009": {
+            "name": "Floppy",
+            "path": "/icons/filled/retro009-floppy.svg"
+        },
+        "retro010": {
+            "name": "Bluray",
+            "path": "/icons/filled/retro010-bluray.svg"
+        },
+        "retro011": {
+            "name": "Man",
+            "path": "/icons/filled/retro011-man.svg"
+        },
+        "retro012": {
+            "name": "Fan",
+            "path": "/icons/filled/retro012-fan.svg"
+        },
+        "retro013": {
+            "name": "Film Roll",
+            "path": "/icons/filled/retro013-film roll.svg"
+        },
+        "retro014": {
+            "name": "Gamepad",
+            "path": "/icons/filled/retro014-gamepad.svg"
+        },
+        "retro015": {
+            "name": "Portable Console",
+            "path": "/icons/filled/retro015-portable console.svg"
+        },
+        "retro016": {
+            "name": "Arcade Machine",
+            "path": "/icons/filled/retro016-arcade machine.svg"
+        },
+        "retro017": {
+            "name": "Ipod",
+            "path": "/icons/filled/retro017-ipod.svg"
+        },
+        "retro018": {
+            "name": "Gamepad",
+            "path": "/icons/filled/retro018-gamepad.svg"
+        },
+        "retro019": {
+            "name": "Scooter",
+            "path": "/icons/filled/retro019-scooter.svg"
+        },
+        "retro020": {
+            "name": "Microphone",
+            "path": "/icons/filled/retro020-microphone.svg"
+        },
+        "retro021": {
+            "name": "Mobile Phone",
+            "path": "/icons/filled/retro021-mobile phone.svg"
+        },
+        "retro022": {
+            "name": "Vespa",
+            "path": "/icons/filled/retro022-vespa.svg"
+        },
+        "retro023": {
+            "name": "Movie Camera",
+            "path": "/icons/filled/retro023-movie camera.svg"
+        },
+        "retro024": {
+            "name": "Gramophone",
+            "path": "/icons/filled/retro024-gramophone.svg"
+        },
+        "retro025": {
+            "name": "Telephone",
+            "path": "/icons/filled/retro025-telephone.svg"
+        },
+        "retro026": {
+            "name": "Pipe",
+            "path": "/icons/filled/retro026-pipe.svg"
+        },
+        "retro027": {
+            "name": "Radio",
+            "path": "/icons/filled/retro027-radio.svg"
+        },
+        "retro028": {
+            "name": "Boom Box",
+            "path": "/icons/filled/retro028-boom box.svg"
+        },
+        "retro029": {
+            "name": "Refrigerator",
+            "path": "/icons/filled/retro029-refrigerator.svg"
+        },
+        "retro030": {
+            "name": "Skateboard",
+            "path": "/icons/filled/retro030-skateboard.svg"
+        },
+        "retro031": {
+            "name": "Sunglasses",
+            "path": "/icons/filled/retro031-sunglasses.svg"
+        },
+        "retro032": {
+            "name": "Television",
+            "path": "/icons/filled/retro032-television.svg"
+        },
+        "retro033": {
+            "name": "Car",
+            "path": "/icons/filled/retro033-car.svg"
+        },
+        "retro034": {
+            "name": "Walkman",
+            "path": "/icons/filled/retro034-walkman.svg"
+        },
+        "retro035": {
+            "name": "Woman",
+            "path": "/icons/filled/retro035-woman.svg"
         }
     },
-    "002": {
-        "name": "360 Degree",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/002-360 degree.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/002-360 degree.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/002-360 degree.svg"
-            }
+    "flat": {
+        "001": {
+            "name": "360 View",
+            "path": "/icons/flat/001-360 view.svg"
+        },
+        "002": {
+            "name": "360 Degree",
+            "path": "/icons/flat/002-360 degree.svg"
+        },
+        "003": {
+            "name": "Rotation",
+            "path": "/icons/flat/003-rotation.svg"
+        },
+        "004": {
+            "name": "Vr Glasses",
+            "path": "/icons/flat/004-vr glasses.svg"
+        },
+        "005": {
+            "name": "Virtual Reality",
+            "path": "/icons/flat/005-virtual reality.svg"
+        },
+        "006": {
+            "name": "Infrared",
+            "path": "/icons/flat/006-infrared.svg"
+        },
+        "007": {
+            "name": "Browser",
+            "path": "/icons/flat/007-browser.svg"
+        },
+        "008": {
+            "name": "Vr Gaming",
+            "path": "/icons/flat/008-vr gaming.svg"
+        },
+        "009": {
+            "name": "Desktop Computer",
+            "path": "/icons/flat/009-desktop computer.svg"
+        },
+        "010": {
+            "name": "Smartphone",
+            "path": "/icons/flat/010-smartphone.svg"
+        },
+        "011": {
+            "name": "Attachment",
+            "path": "/icons/flat/011-attachment.svg"
+        },
+        "012": {
+            "name": "Cell Phone",
+            "path": "/icons/flat/012-cell phone.svg"
+        },
+        "013": {
+            "name": "Rotation",
+            "path": "/icons/flat/013-rotation.svg"
+        },
+        "014": {
+            "name": "Motion",
+            "path": "/icons/flat/014-motion.svg"
+        },
+        "015": {
+            "name": "Technology",
+            "path": "/icons/flat/015-technology.svg"
+        },
+        "016": {
+            "name": "Smartphone",
+            "path": "/icons/flat/016-smartphone.svg"
+        },
+        "017": {
+            "name": "Cell Phone",
+            "path": "/icons/flat/017-cell phone.svg"
+        },
+        "018": {
+            "name": "Design",
+            "path": "/icons/flat/018-design.svg"
+        },
+        "019": {
+            "name": "Tech",
+            "path": "/icons/flat/019-tech.svg"
+        },
+        "020": {
+            "name": "User",
+            "path": "/icons/flat/020-user.svg"
+        },
+        "021": {
+            "name": "Bug",
+            "path": "/icons/flat/021-bug.svg"
+        },
+        "022": {
+            "name": "Chat",
+            "path": "/icons/flat/022-chat.svg"
+        },
+        "023": {
+            "name": "Secure",
+            "path": "/icons/flat/023-secure.svg"
+        },
+        "024": {
+            "name": "Data Transfer",
+            "path": "/icons/flat/024-data transfer.svg"
+        },
+        "025": {
+            "name": "Technology Products",
+            "path": "/icons/flat/025-technology products.svg"
+        },
+        "026": {
+            "name": "Virtual Reality",
+            "path": "/icons/flat/026-virtual reality.svg"
+        },
+        "027": {
+            "name": "Lock",
+            "path": "/icons/flat/027-lock.svg"
+        },
+        "028": {
+            "name": "Favorite",
+            "path": "/icons/flat/028-favorite.svg"
+        },
+        "029": {
+            "name": "Rotate",
+            "path": "/icons/flat/029-rotate.svg"
+        },
+        "030": {
+            "name": "Immersive",
+            "path": "/icons/flat/030-immersive.svg"
+        },
+        "031": {
+            "name": "Rotation Lock",
+            "path": "/icons/flat/031-rotation lock.svg"
+        },
+        "032": {
+            "name": "Smartwatch",
+            "path": "/icons/flat/032-smartwatch.svg"
+        },
+        "033": {
+            "name": "Technology",
+            "path": "/icons/flat/033-technology.svg"
+        },
+        "034": {
+            "name": "Phone",
+            "path": "/icons/flat/034-phone.svg"
+        },
+        "035": {
+            "name": "Vr Glasses",
+            "path": "/icons/flat/035-vr glasses.svg"
+        },
+        "036": {
+            "name": "Browser",
+            "path": "/icons/flat/036-browser.svg"
+        },
+        "037": {
+            "name": "Internet",
+            "path": "/icons/flat/037-internet.svg"
+        },
+        "038": {
+            "name": "Wifi",
+            "path": "/icons/flat/038-wifi.svg"
+        },
+        "039": {
+            "name": "Wireless Connection",
+            "path": "/icons/flat/039-wireless connection.svg"
+        },
+        "040": {
+            "name": "Video",
+            "path": "/icons/flat/040-video.svg"
+        },
+        "041": {
+            "name": "Vr Glasses",
+            "path": "/icons/flat/041-vr glasses.svg"
+        },
+        "042": {
+            "name": "Vr Glasses",
+            "path": "/icons/flat/042-vr glasses.svg"
+        },
+        "043": {
+            "name": "Vr Glasses",
+            "path": "/icons/flat/043-vr glasses.svg"
+        },
+        "044": {
+            "name": "Wireless Internet",
+            "path": "/icons/flat/044-wireless internet.svg"
         }
     },
-    "003": {
-        "name": "Rotation",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/003-rotation.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/003-rotation.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/003-rotation.svg"
-            }
+    "lcolor": {
+        "001": {
+            "name": "360 View",
+            "path": "/icons/lcolor/001-360 view.svg"
+        },
+        "002": {
+            "name": "360 Degree",
+            "path": "/icons/lcolor/002-360 degree.svg"
+        },
+        "003": {
+            "name": "Rotation",
+            "path": "/icons/lcolor/003-rotation.svg"
+        },
+        "004": {
+            "name": "Vr Glasses",
+            "path": "/icons/lcolor/004-vr glasses.svg"
+        },
+        "005": {
+            "name": "Virtual Reality",
+            "path": "/icons/lcolor/005-virtual reality.svg"
+        },
+        "006": {
+            "name": "Infrared",
+            "path": "/icons/lcolor/006-infrared.svg"
+        },
+        "007": {
+            "name": "Browser",
+            "path": "/icons/lcolor/007-browser.svg"
+        },
+        "008": {
+            "name": "Vr Gaming",
+            "path": "/icons/lcolor/008-vr gaming.svg"
+        },
+        "009": {
+            "name": "Desktop Computer",
+            "path": "/icons/lcolor/009-desktop computer.svg"
+        },
+        "010": {
+            "name": "Smartphone",
+            "path": "/icons/lcolor/010-smartphone.svg"
+        },
+        "011": {
+            "name": "Attachment",
+            "path": "/icons/lcolor/011-attachment.svg"
+        },
+        "012": {
+            "name": "Cell Phone",
+            "path": "/icons/lcolor/012-cell phone.svg"
+        },
+        "013": {
+            "name": "Rotation",
+            "path": "/icons/lcolor/013-rotation.svg"
+        },
+        "014": {
+            "name": "Motion",
+            "path": "/icons/lcolor/014-motion.svg"
+        },
+        "015": {
+            "name": "Technology",
+            "path": "/icons/lcolor/015-technology.svg"
+        },
+        "016": {
+            "name": "Smartphone",
+            "path": "/icons/lcolor/016-smartphone.svg"
+        },
+        "017": {
+            "name": "Cell Phone",
+            "path": "/icons/lcolor/017-cell phone.svg"
+        },
+        "018": {
+            "name": "Design",
+            "path": "/icons/lcolor/018-design.svg"
+        },
+        "019": {
+            "name": "Tech",
+            "path": "/icons/lcolor/019-tech.svg"
+        },
+        "020": {
+            "name": "User",
+            "path": "/icons/lcolor/020-user.svg"
+        },
+        "021": {
+            "name": "Bug",
+            "path": "/icons/lcolor/021-bug.svg"
+        },
+        "022": {
+            "name": "Chat",
+            "path": "/icons/lcolor/022-chat.svg"
+        },
+        "023": {
+            "name": "Secure",
+            "path": "/icons/lcolor/023-secure.svg"
+        },
+        "024": {
+            "name": "Data Transfer",
+            "path": "/icons/lcolor/024-data transfer.svg"
+        },
+        "025": {
+            "name": "Technology Products",
+            "path": "/icons/lcolor/025-technology products.svg"
+        },
+        "026": {
+            "name": "Virtual Reality",
+            "path": "/icons/lcolor/026-virtual reality.svg"
+        },
+        "027": {
+            "name": "Lock",
+            "path": "/icons/lcolor/027-lock.svg"
+        },
+        "028": {
+            "name": "Favorite",
+            "path": "/icons/lcolor/028-favorite.svg"
+        },
+        "029": {
+            "name": "Rotate",
+            "path": "/icons/lcolor/029-rotate.svg"
+        },
+        "030": {
+            "name": "Immersive",
+            "path": "/icons/lcolor/030-immersive.svg"
+        },
+        "031": {
+            "name": "Rotation Lock",
+            "path": "/icons/lcolor/031-rotation lock.svg"
+        },
+        "032": {
+            "name": "Smartwatch",
+            "path": "/icons/lcolor/032-smartwatch.svg"
+        },
+        "033": {
+            "name": "Technology",
+            "path": "/icons/lcolor/033-technology.svg"
+        },
+        "034": {
+            "name": "Phone",
+            "path": "/icons/lcolor/034-phone.svg"
+        },
+        "035": {
+            "name": "Vr Glasses",
+            "path": "/icons/lcolor/035-vr glasses.svg"
+        },
+        "036": {
+            "name": "Browser",
+            "path": "/icons/lcolor/036-browser.svg"
+        },
+        "037": {
+            "name": "Internet",
+            "path": "/icons/lcolor/037-internet.svg"
+        },
+        "038": {
+            "name": "Wifi",
+            "path": "/icons/lcolor/038-wifi.svg"
+        },
+        "039": {
+            "name": "Wireless Connection",
+            "path": "/icons/lcolor/039-wireless connection.svg"
+        },
+        "040": {
+            "name": "Video",
+            "path": "/icons/lcolor/040-video.svg"
+        },
+        "041": {
+            "name": "Vr Glasses",
+            "path": "/icons/lcolor/041-vr glasses.svg"
+        },
+        "042": {
+            "name": "Vr Glasses",
+            "path": "/icons/lcolor/042-vr glasses.svg"
+        },
+        "043": {
+            "name": "Vr Glasses",
+            "path": "/icons/lcolor/043-vr glasses.svg"
+        },
+        "044": {
+            "name": "Wireless Internet",
+            "path": "/icons/lcolor/044-wireless internet.svg"
+        },
+        "hc001": {
+            "name": "Bat",
+            "path": "/icons/lcolor/hc001-bat.svg"
+        },
+        "hc002": {
+            "name": "Black Cat",
+            "path": "/icons/lcolor/hc002-black cat.svg"
+        },
+        "hc003": {
+            "name": "Axe",
+            "path": "/icons/lcolor/hc003-axe.svg"
+        },
+        "hc004": {
+            "name": "Axe",
+            "path": "/icons/lcolor/hc004-axe.svg"
+        },
+        "hc005": {
+            "name": "Living Dead",
+            "path": "/icons/lcolor/hc005-living dead.svg"
+        },
+        "hc006": {
+            "name": "Bones",
+            "path": "/icons/lcolor/hc006-bones.svg"
+        },
+        "hc007": {
+            "name": "Candle",
+            "path": "/icons/lcolor/hc007-candle.svg"
+        },
+        "hc008": {
+            "name": "Candy Corn",
+            "path": "/icons/lcolor/hc008-candy corn.svg"
+        },
+        "hc009": {
+            "name": "Skull",
+            "path": "/icons/lcolor/hc009-skull.svg"
+        },
+        "hc010": {
+            "name": "Castle",
+            "path": "/icons/lcolor/hc010-castle.svg"
+        },
+        "hc011": {
+            "name": "Tombstone",
+            "path": "/icons/lcolor/hc011-tombstone.svg"
+        },
+        "hc012": {
+            "name": "Cobweb",
+            "path": "/icons/lcolor/hc012-cobweb.svg"
+        },
+        "hc013": {
+            "name": "Coffin",
+            "path": "/icons/lcolor/hc013-coffin.svg"
+        },
+        "hc014": {
+            "name": "Moon",
+            "path": "/icons/lcolor/hc014-moon.svg"
+        },
+        "hc015": {
+            "name": "Crow",
+            "path": "/icons/lcolor/hc015-crow.svg"
+        },
+        "hc016": {
+            "name": "Trident",
+            "path": "/icons/lcolor/hc016-trident.svg"
+        },
+        "hc017": {
+            "name": "Dracula",
+            "path": "/icons/lcolor/hc017-dracula.svg"
+        },
+        "hc018": {
+            "name": "Eyeball",
+            "path": "/icons/lcolor/hc018-eyeball.svg"
+        },
+        "hc019": {
+            "name": "Frankenstein",
+            "path": "/icons/lcolor/hc019-frankenstein.svg"
+        },
+        "hc020": {
+            "name": "Full Moon",
+            "path": "/icons/lcolor/hc020-full moon.svg"
+        },
+        "hc021": {
+            "name": "Gate",
+            "path": "/icons/lcolor/hc021-gate.svg"
+        },
+        "hc022": {
+            "name": "Ghost",
+            "path": "/icons/lcolor/hc022-ghost.svg"
+        },
+        "hc023": {
+            "name": "Graveyard",
+            "path": "/icons/lcolor/hc023-graveyard.svg"
+        },
+        "hc024": {
+            "name": "Reaper",
+            "path": "/icons/lcolor/hc024-reaper.svg"
+        },
+        "hc025": {
+            "name": "Lollipop",
+            "path": "/icons/lcolor/hc025-lollipop.svg"
+        },
+        "hc026": {
+            "name": "Candle",
+            "path": "/icons/lcolor/hc026-candle.svg"
+        },
+        "hc027": {
+            "name": "Owl",
+            "path": "/icons/lcolor/hc027-owl.svg"
+        },
+        "hc028": {
+            "name": "Pumpkin",
+            "path": "/icons/lcolor/hc028-pumpkin.svg"
+        },
+        "hc029": {
+            "name": "Pumpkin",
+            "path": "/icons/lcolor/hc029-pumpkin.svg"
+        },
+        "hc030": {
+            "name": "Scarecrow",
+            "path": "/icons/lcolor/hc030-scarecrow.svg"
+        },
+        "hc031": {
+            "name": "Scythe",
+            "path": "/icons/lcolor/hc031-scythe.svg"
+        },
+        "hc032": {
+            "name": "Cake",
+            "path": "/icons/lcolor/hc032-cake.svg"
+        },
+        "hc033": {
+            "name": "Skull",
+            "path": "/icons/lcolor/hc033-skull.svg"
+        },
+        "hc034": {
+            "name": "Spider",
+            "path": "/icons/lcolor/hc034-spider.svg"
+        },
+        "hc035": {
+            "name": "Spider Web",
+            "path": "/icons/lcolor/hc035-spider web.svg"
+        },
+        "hc036": {
+            "name": "Toilet",
+            "path": "/icons/lcolor/hc036-toilet.svg"
+        },
+        "hc037": {
+            "name": "Tree",
+            "path": "/icons/lcolor/hc037-tree.svg"
+        },
+        "hc038": {
+            "name": "Witch Broom",
+            "path": "/icons/lcolor/hc038-witch broom.svg"
+        },
+        "hc039": {
+            "name": "Cauldron",
+            "path": "/icons/lcolor/hc039-cauldron.svg"
+        },
+        "hc040": {
+            "name": "Witch Hat",
+            "path": "/icons/lcolor/hc040-witch hat.svg"
+        },
+        "retail001": {
+            "name": "Purchase",
+            "path": "/icons/lcolor/retail001-purchase.svg"
+        },
+        "retail002": {
+            "name": "Shop Bag",
+            "path": "/icons/lcolor/retail002-shop bag.svg"
+        },
+        "retail003": {
+            "name": "Truck",
+            "path": "/icons/lcolor/retail003-truck.svg"
+        },
+        "retail004": {
+            "name": "Online Store",
+            "path": "/icons/lcolor/retail004-online store.svg"
+        },
+        "retail005": {
+            "name": "Payment",
+            "path": "/icons/lcolor/retail005-payment.svg"
+        },
+        "retail006": {
+            "name": "Invoice",
+            "path": "/icons/lcolor/retail006-invoice.svg"
+        },
+        "retail007": {
+            "name": "Groceries",
+            "path": "/icons/lcolor/retail007-groceries.svg"
+        },
+        "retail008": {
+            "name": "Gift",
+            "path": "/icons/lcolor/retail008-gift.svg"
+        },
+        "retail009": {
+            "name": "Vending Machine",
+            "path": "/icons/lcolor/retail009-vending machine.svg"
+        },
+        "retail010": {
+            "name": "Discount",
+            "path": "/icons/lcolor/retail010-discount.svg"
+        },
+        "retail011": {
+            "name": "Shopping Cart",
+            "path": "/icons/lcolor/retail011-shopping cart.svg"
+        },
+        "retail012": {
+            "name": "Shelf",
+            "path": "/icons/lcolor/retail012-shelf.svg"
+        },
+        "retail013": {
+            "name": "Cash Register",
+            "path": "/icons/lcolor/retail013-cash register.svg"
+        },
+        "retail014": {
+            "name": "Wallet",
+            "path": "/icons/lcolor/retail014-wallet.svg"
+        },
+        "retail015": {
+            "name": "Person",
+            "path": "/icons/lcolor/retail015-person.svg"
+        },
+        "retail016": {
+            "name": "Person",
+            "path": "/icons/lcolor/retail016-person.svg"
+        },
+        "retail017": {
+            "name": "Warehouse",
+            "path": "/icons/lcolor/retail017-warehouse.svg"
+        },
+        "retail018": {
+            "name": "Advertising",
+            "path": "/icons/lcolor/retail018-advertising.svg"
+        },
+        "retail019": {
+            "name": "Tag",
+            "path": "/icons/lcolor/retail019-tag.svg"
+        },
+        "retail020": {
+            "name": "Franchise",
+            "path": "/icons/lcolor/retail020-franchise.svg"
+        },
+        "retail021": {
+            "name": "Piggy Bank",
+            "path": "/icons/lcolor/retail021-piggy bank.svg"
+        },
+        "retail022": {
+            "name": "Shopping Basket",
+            "path": "/icons/lcolor/retail022-shopping basket.svg"
+        },
+        "retail023": {
+            "name": "Distribution",
+            "path": "/icons/lcolor/retail023-distribution.svg"
+        },
+        "retail024": {
+            "name": "Supermarket",
+            "path": "/icons/lcolor/retail024-supermarket.svg"
+        },
+        "retail025": {
+            "name": "Package",
+            "path": "/icons/lcolor/retail025-package.svg"
+        },
+        "retail026": {
+            "name": "Beverages",
+            "path": "/icons/lcolor/retail026-beverages.svg"
+        },
+        "retail027": {
+            "name": "Food",
+            "path": "/icons/lcolor/retail027-food.svg"
+        },
+        "retail028": {
+            "name": "Snack",
+            "path": "/icons/lcolor/retail028-snack.svg"
+        },
+        "retail029": {
+            "name": "Appliance",
+            "path": "/icons/lcolor/retail029-appliance.svg"
+        },
+        "retail030": {
+            "name": "Fashion",
+            "path": "/icons/lcolor/retail030-fashion.svg"
+        },
+        "retail031": {
+            "name": "Vegetable",
+            "path": "/icons/lcolor/retail031-vegetable.svg"
+        },
+        "retail032": {
+            "name": "Bulb",
+            "path": "/icons/lcolor/retail032-bulb.svg"
+        },
+        "retail033": {
+            "name": "Credit",
+            "path": "/icons/lcolor/retail033-credit.svg"
+        },
+        "retail034": {
+            "name": "Book",
+            "path": "/icons/lcolor/retail034-book.svg"
+        },
+        "retail035": {
+            "name": "Fashion",
+            "path": "/icons/lcolor/retail035-fashion.svg"
+        },
+        "retail036": {
+            "name": "Electronic",
+            "path": "/icons/lcolor/retail036-electronic.svg"
+        },
+        "retail037": {
+            "name": "Sport",
+            "path": "/icons/lcolor/retail037-sport.svg"
+        },
+        "retail038": {
+            "name": "Kitchenware",
+            "path": "/icons/lcolor/retail038-kitchenware.svg"
+        },
+        "retail039": {
+            "name": "Decor",
+            "path": "/icons/lcolor/retail039-decor.svg"
+        },
+        "retail040": {
+            "name": "Furniture",
+            "path": "/icons/lcolor/retail040-furniture.svg"
+        },
+        "retail041": {
+            "name": "Christmas Tree",
+            "path": "/icons/lcolor/retail041-christmas tree.svg"
+        },
+        "retail042": {
+            "name": "Baby",
+            "path": "/icons/lcolor/retail042-baby.svg"
+        },
+        "retail043": {
+            "name": "Games",
+            "path": "/icons/lcolor/retail043-games.svg"
+        },
+        "retail044": {
+            "name": "Store",
+            "path": "/icons/lcolor/retail044-store.svg"
+        },
+        "retail045": {
+            "name": "Pet",
+            "path": "/icons/lcolor/retail045-pet.svg"
+        },
+        "retail046": {
+            "name": "Guarantee",
+            "path": "/icons/lcolor/retail046-guarantee.svg"
+        },
+        "retail047": {
+            "name": "Qr Code",
+            "path": "/icons/lcolor/retail047-qr code.svg"
+        },
+        "retail048": {
+            "name": "Package",
+            "path": "/icons/lcolor/retail048-package.svg"
+        },
+        "retail049": {
+            "name": "List",
+            "path": "/icons/lcolor/retail049-list.svg"
+        },
+        "retail050": {
+            "name": "Shopping Bag",
+            "path": "/icons/lcolor/retail050-shopping bag.svg"
+        },
+        "rnr001": {
+            "name": "Electric Guitar",
+            "path": "/icons/lcolor/rnr001-electric guitar.svg"
+        },
+        "rnr002": {
+            "name": "Hand",
+            "path": "/icons/lcolor/rnr002-hand.svg"
+        },
+        "rnr003": {
+            "name": "Loudspeaker",
+            "path": "/icons/lcolor/rnr003-loudspeaker.svg"
+        },
+        "rnr004": {
+            "name": "Microphone",
+            "path": "/icons/lcolor/rnr004-microphone.svg"
+        },
+        "rnr005": {
+            "name": "Ticket",
+            "path": "/icons/lcolor/rnr005-ticket.svg"
+        },
+        "rnr006": {
+            "name": "Headphones",
+            "path": "/icons/lcolor/rnr006-headphones.svg"
+        },
+        "rnr007": {
+            "name": "Drum Set",
+            "path": "/icons/lcolor/rnr007-drum set.svg"
+        },
+        "rnr008": {
+            "name": "Keyboard",
+            "path": "/icons/lcolor/rnr008-keyboard.svg"
+        },
+        "rnr009": {
+            "name": "Mp3 Player",
+            "path": "/icons/lcolor/rnr009-mp3 player.svg"
+        },
+        "rnr010": {
+            "name": "Music",
+            "path": "/icons/lcolor/rnr010-music.svg"
+        },
+        "rnr011": {
+            "name": "Punk",
+            "path": "/icons/lcolor/rnr011-punk.svg"
+        },
+        "rnr012": {
+            "name": "Skull",
+            "path": "/icons/lcolor/rnr012-skull.svg"
+        },
+        "rnr013": {
+            "name": "T Shirt",
+            "path": "/icons/lcolor/rnr013-t shirt.svg"
+        },
+        "rnr014": {
+            "name": "Acoustic Guitar",
+            "path": "/icons/lcolor/rnr014-acoustic guitar.svg"
+        },
+        "rnr015": {
+            "name": "Guitar Pick",
+            "path": "/icons/lcolor/rnr015-guitar pick.svg"
+        },
+        "rnr016": {
+            "name": "Skull",
+            "path": "/icons/lcolor/rnr016-skull.svg"
+        },
+        "rnr017": {
+            "name": "Sticks",
+            "path": "/icons/lcolor/rnr017-sticks.svg"
+        },
+        "rnr018": {
+            "name": "Sunglasses",
+            "path": "/icons/lcolor/rnr018-sunglasses.svg"
+        },
+        "rnr019": {
+            "name": "Whiskey",
+            "path": "/icons/lcolor/rnr019-whiskey.svg"
+        },
+        "rnr020": {
+            "name": "Heart",
+            "path": "/icons/lcolor/rnr020-heart.svg"
+        },
+        "rnr021": {
+            "name": "Star",
+            "path": "/icons/lcolor/rnr021-star.svg"
+        },
+        "rnr022": {
+            "name": "Equalizer",
+            "path": "/icons/lcolor/rnr022-equalizer.svg"
+        },
+        "rnr023": {
+            "name": "Beer",
+            "path": "/icons/lcolor/rnr023-beer.svg"
+        },
+        "rnr024": {
+            "name": "Album",
+            "path": "/icons/lcolor/rnr024-album.svg"
+        },
+        "rnr025": {
+            "name": "Boombox",
+            "path": "/icons/lcolor/rnr025-boombox.svg"
+        },
+        "rnr026": {
+            "name": "Rolling Stones",
+            "path": "/icons/lcolor/rnr026-rolling stones.svg"
+        },
+        "rnr027": {
+            "name": "Music File",
+            "path": "/icons/lcolor/rnr027-music file.svg"
+        },
+        "rnr028": {
+            "name": "Headphones",
+            "path": "/icons/lcolor/rnr028-headphones.svg"
+        },
+        "rnr029": {
+            "name": "Bomb",
+            "path": "/icons/lcolor/rnr029-bomb.svg"
+        },
+        "rnr030": {
+            "name": "Cassette",
+            "path": "/icons/lcolor/rnr030-cassette.svg"
+        },
+        "rnr031": {
+            "name": "Star",
+            "path": "/icons/lcolor/rnr031-star.svg"
+        },
+        "rnr032": {
+            "name": "Jack",
+            "path": "/icons/lcolor/rnr032-jack.svg"
+        },
+        "rnr033": {
+            "name": "Fist",
+            "path": "/icons/lcolor/rnr033-fist.svg"
+        },
+        "rnr034": {
+            "name": "Tambourine",
+            "path": "/icons/lcolor/rnr034-tambourine.svg"
+        },
+        "rnr035": {
+            "name": "Peace",
+            "path": "/icons/lcolor/rnr035-peace.svg"
+        },
+        "rnr036": {
+            "name": "Violin",
+            "path": "/icons/lcolor/rnr036-violin.svg"
+        },
+        "rnr037": {
+            "name": "Flower",
+            "path": "/icons/lcolor/rnr037-flower.svg"
+        },
+        "rnr038": {
+            "name": "Guitar Pedal",
+            "path": "/icons/lcolor/rnr038-guitar pedal.svg"
+        },
+        "rnr039": {
+            "name": "Lighting",
+            "path": "/icons/lcolor/rnr039-lighting.svg"
+        },
+        "rnr040": {
+            "name": "Fire",
+            "path": "/icons/lcolor/rnr040-fire.svg"
+        },
+        "rnr041": {
+            "name": "Jukebox",
+            "path": "/icons/lcolor/rnr041-jukebox.svg"
+        },
+        "rnr042": {
+            "name": "Smartphone",
+            "path": "/icons/lcolor/rnr042-smartphone.svg"
+        },
+        "rnr043": {
+            "name": "Walkman",
+            "path": "/icons/lcolor/rnr043-walkman.svg"
+        },
+        "rnr044": {
+            "name": "Microphone",
+            "path": "/icons/lcolor/rnr044-microphone.svg"
+        },
+        "rnr045": {
+            "name": "Amplifier",
+            "path": "/icons/lcolor/rnr045-amplifier.svg"
+        },
+        "rnr046": {
+            "name": "Trumpet",
+            "path": "/icons/lcolor/rnr046-trumpet.svg"
+        },
+        "rnr047": {
+            "name": "Sound Waves",
+            "path": "/icons/lcolor/rnr047-sound waves.svg"
+        },
+        "rnr048": {
+            "name": "Turntable",
+            "path": "/icons/lcolor/rnr048-turntable.svg"
+        },
+        "rnr049": {
+            "name": "Trophy",
+            "path": "/icons/lcolor/rnr049-trophy.svg"
+        },
+        "rnr050": {
+            "name": "Boots",
+            "path": "/icons/lcolor/rnr050-boots.svg"
+        },
+        "summer001": {
+            "name": "Anchor",
+            "path": "/icons/lcolor/summer001-anchor.svg"
+        },
+        "summer002": {
+            "name": "Beach Ball",
+            "path": "/icons/lcolor/summer002-beach ball.svg"
+        },
+        "summer003": {
+            "name": "Can",
+            "path": "/icons/lcolor/summer003-can.svg"
+        },
+        "summer004": {
+            "name": "Bikini",
+            "path": "/icons/lcolor/summer004-bikini.svg"
+        },
+        "summer005": {
+            "name": "Photo Camera",
+            "path": "/icons/lcolor/summer005-photo camera.svg"
+        },
+        "summer006": {
+            "name": "Cap",
+            "path": "/icons/lcolor/summer006-cap.svg"
+        },
+        "summer007": {
+            "name": "Cocktail",
+            "path": "/icons/lcolor/summer007-cocktail.svg"
+        },
+        "summer008": {
+            "name": "Cocktail",
+            "path": "/icons/lcolor/summer008-cocktail.svg"
+        },
+        "summer009": {
+            "name": "Crab",
+            "path": "/icons/lcolor/summer009-crab.svg"
+        },
+        "summer010": {
+            "name": "Sign",
+            "path": "/icons/lcolor/summer010-sign.svg"
+        },
+        "summer011": {
+            "name": "Fan",
+            "path": "/icons/lcolor/summer011-fan.svg"
+        },
+        "summer012": {
+            "name": "Flip Flops",
+            "path": "/icons/lcolor/summer012-flip flops.svg"
+        },
+        "summer013": {
+            "name": "Flippers",
+            "path": "/icons/lcolor/summer013-flippers.svg"
+        },
+        "summer014": {
+            "name": "Lifesaver",
+            "path": "/icons/lcolor/summer014-lifesaver.svg"
+        },
+        "summer015": {
+            "name": "Shirt",
+            "path": "/icons/lcolor/summer015-shirt.svg"
+        },
+        "summer016": {
+            "name": "Ice Cream",
+            "path": "/icons/lcolor/summer016-ice cream.svg"
+        },
+        "summer017": {
+            "name": "Ice Cream",
+            "path": "/icons/lcolor/summer017-ice cream.svg"
+        },
+        "summer018": {
+            "name": "Orange Juice",
+            "path": "/icons/lcolor/summer018-orange juice.svg"
+        },
+        "summer019": {
+            "name": "Lemonade",
+            "path": "/icons/lcolor/summer019-lemonade.svg"
+        },
+        "summer020": {
+            "name": "Lounge Chair",
+            "path": "/icons/lcolor/summer020-lounge chair.svg"
+        },
+        "summer021": {
+            "name": "Map",
+            "path": "/icons/lcolor/summer021-map.svg"
+        },
+        "summer022": {
+            "name": "Palm Tree",
+            "path": "/icons/lcolor/summer022-palm tree.svg"
+        },
+        "summer023": {
+            "name": "Pamela Hat",
+            "path": "/icons/lcolor/summer023-pamela hat.svg"
+        },
+        "summer024": {
+            "name": "Passport",
+            "path": "/icons/lcolor/summer024-passport.svg"
+        },
+        "summer025": {
+            "name": "Pineapple",
+            "path": "/icons/lcolor/summer025-pineapple.svg"
+        },
+        "summer026": {
+            "name": "Swimming Pool",
+            "path": "/icons/lcolor/summer026-swimming pool.svg"
+        },
+        "summer027": {
+            "name": "Sand Bucket",
+            "path": "/icons/lcolor/summer027-sand bucket.svg"
+        },
+        "summer028": {
+            "name": "Sand Castle",
+            "path": "/icons/lcolor/summer028-sand castle.svg"
+        },
+        "summer029": {
+            "name": "Shell",
+            "path": "/icons/lcolor/summer029-shell.svg"
+        },
+        "summer030": {
+            "name": "Swimsuit",
+            "path": "/icons/lcolor/summer030-swimsuit.svg"
+        },
+        "summer031": {
+            "name": "Snorkle",
+            "path": "/icons/lcolor/summer031-snorkle.svg"
+        },
+        "summer032": {
+            "name": "Soft Drink",
+            "path": "/icons/lcolor/summer032-Soft drink.svg"
+        },
+        "summer033": {
+            "name": "Starfish",
+            "path": "/icons/lcolor/summer033-starfish.svg"
+        },
+        "summer034": {
+            "name": "Suitcase",
+            "path": "/icons/lcolor/summer034-suitcase.svg"
+        },
+        "summer035": {
+            "name": "Sun",
+            "path": "/icons/lcolor/summer035-sun.svg"
+        },
+        "summer036": {
+            "name": "Sunblock",
+            "path": "/icons/lcolor/summer036-sunblock.svg"
+        },
+        "summer037": {
+            "name": "Sunglasses",
+            "path": "/icons/lcolor/summer037-sunglasses.svg"
+        },
+        "summer038": {
+            "name": "Sunset",
+            "path": "/icons/lcolor/summer038-sunset.svg"
+        },
+        "summer039": {
+            "name": "Surfboard",
+            "path": "/icons/lcolor/summer039-Surfboard.svg"
+        },
+        "summer040": {
+            "name": "Swimsuit",
+            "path": "/icons/lcolor/summer040-swimsuit.svg"
+        },
+        "summer041": {
+            "name": "Tent",
+            "path": "/icons/lcolor/summer041-tent.svg"
+        },
+        "summer042": {
+            "name": "Terrace",
+            "path": "/icons/lcolor/summer042-terrace.svg"
+        },
+        "summer043": {
+            "name": "Backpack",
+            "path": "/icons/lcolor/summer043-backpack.svg"
+        },
+        "summer044": {
+            "name": "Tshirt",
+            "path": "/icons/lcolor/summer044-tshirt.svg"
+        },
+        "summer045": {
+            "name": "Ukelele",
+            "path": "/icons/lcolor/summer045-ukelele.svg"
+        },
+        "summer046": {
+            "name": "Sun Umbrella",
+            "path": "/icons/lcolor/summer046-sun umbrella.svg"
+        },
+        "summer047": {
+            "name": "Water Gun",
+            "path": "/icons/lcolor/summer047-water gun.svg"
+        },
+        "summer048": {
+            "name": "Watermelon",
+            "path": "/icons/lcolor/summer048-watermelon.svg"
+        },
+        "summer049": {
+            "name": "Swimsuit",
+            "path": "/icons/lcolor/summer049-swimsuit.svg"
+        },
+        "summer050": {
+            "name": "Yatch",
+            "path": "/icons/lcolor/summer050-yatch.svg"
         }
     },
-    "004": {
-        "name": "Vr Glasses",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/004-vr glasses.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/004-vr glasses.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/004-vr glasses.svg"
-            }
-        }
-    },
-    "005": {
-        "name": "Virtual Reality",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/005-virtual reality.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/005-virtual reality.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/005-virtual reality.svg"
-            }
-        }
-    },
-    "006": {
-        "name": "Infrared",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/006-infrared.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/006-infrared.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/006-infrared.svg"
-            }
-        }
-    },
-    "007": {
-        "name": "Browser",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/007-browser.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/007-browser.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/007-browser.svg"
-            }
-        }
-    },
-    "008": {
-        "name": "Vr Gaming",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/008-vr gaming.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/008-vr gaming.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/008-vr gaming.svg"
-            }
-        }
-    },
-    "009": {
-        "name": "Desktop Computer",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/009-desktop computer.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/009-desktop computer.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/009-desktop computer.svg"
-            }
-        }
-    },
-    "010": {
-        "name": "Smartphone",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/010-smartphone.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/010-smartphone.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/010-smartphone.svg"
-            }
-        }
-    },
-    "011": {
-        "name": "Attachment",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/011-attachment.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/011-attachment.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/011-attachment.svg"
-            }
-        }
-    },
-    "012": {
-        "name": "Cell Phone",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/012-cell phone.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/012-cell phone.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/012-cell phone.svg"
-            }
-        }
-    },
-    "013": {
-        "name": "Rotation",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/013-rotation.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/013-rotation.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/013-rotation.svg"
-            }
-        }
-    },
-    "014": {
-        "name": "Motion",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/014-motion.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/014-motion.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/014-motion.svg"
-            }
-        }
-    },
-    "015": {
-        "name": "Technology",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/015-technology.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/015-technology.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/015-technology.svg"
-            }
-        }
-    },
-    "016": {
-        "name": "Smartphone",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/016-smartphone.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/016-smartphone.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/016-smartphone.svg"
-            }
-        }
-    },
-    "017": {
-        "name": "Cell Phone",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/017-cell phone.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/017-cell phone.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/017-cell phone.svg"
-            }
-        }
-    },
-    "018": {
-        "name": "Design",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/018-design.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/018-design.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/018-design.svg"
-            }
-        }
-    },
-    "019": {
-        "name": "Tech",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/019-tech.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/019-tech.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/019-tech.svg"
-            }
-        }
-    },
-    "020": {
-        "name": "User",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/020-user.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/020-user.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/020-user.svg"
-            }
-        }
-    },
-    "021": {
-        "name": "Bug",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/021-bug.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/021-bug.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/021-bug.svg"
-            }
-        }
-    },
-    "022": {
-        "name": "Chat",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/022-chat.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/022-chat.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/022-chat.svg"
-            }
-        }
-    },
-    "023": {
-        "name": "Secure",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/023-secure.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/023-secure.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/023-secure.svg"
-            }
-        }
-    },
-    "024": {
-        "name": "Data Transfer",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/024-data transfer.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/024-data transfer.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/024-data transfer.svg"
-            }
-        }
-    },
-    "025": {
-        "name": "Technology Products",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/025-technology products.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/025-technology products.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/025-technology products.svg"
-            }
-        }
-    },
-    "026": {
-        "name": "Virtual Reality",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/026-virtual reality.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/026-virtual reality.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/026-virtual reality.svg"
-            }
-        }
-    },
-    "027": {
-        "name": "Lock",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/027-lock.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/027-lock.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/027-lock.svg"
-            }
-        }
-    },
-    "028": {
-        "name": "Favorite",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/028-favorite.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/028-favorite.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/028-favorite.svg"
-            }
-        }
-    },
-    "029": {
-        "name": "Rotate",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/029-rotate.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/029-rotate.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/029-rotate.svg"
-            }
-        }
-    },
-    "030": {
-        "name": "Immersive",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/030-immersive.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/030-immersive.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/030-immersive.svg"
-            }
-        }
-    },
-    "031": {
-        "name": "Rotation Lock",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/031-rotation lock.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/031-rotation lock.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/031-rotation lock.svg"
-            }
-        }
-    },
-    "032": {
-        "name": "Smartwatch",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/032-smartwatch.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/032-smartwatch.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/032-smartwatch.svg"
-            }
-        }
-    },
-    "033": {
-        "name": "Technology",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/033-technology.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/033-technology.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/033-technology.svg"
-            }
-        }
-    },
-    "034": {
-        "name": "Phone",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/034-phone.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/034-phone.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/034-phone.svg"
-            }
-        }
-    },
-    "035": {
-        "name": "Vr Glasses",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/035-vr glasses.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/035-vr glasses.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/035-vr glasses.svg"
-            }
-        }
-    },
-    "036": {
-        "name": "Browser",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/036-browser.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/036-browser.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/036-browser.svg"
-            }
-        }
-    },
-    "037": {
-        "name": "Internet",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/037-internet.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/037-internet.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/037-internet.svg"
-            }
-        }
-    },
-    "038": {
-        "name": "Wifi",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/038-wifi.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/038-wifi.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/038-wifi.svg"
-            }
-        }
-    },
-    "039": {
-        "name": "Wireless Connection",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/039-wireless connection.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/039-wireless connection.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/039-wireless connection.svg"
-            }
-        }
-    },
-    "040": {
-        "name": "Video",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/040-video.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/040-video.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/040-video.svg"
-            }
-        }
-    },
-    "041": {
-        "name": "Vr Glasses",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/041-vr glasses.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/041-vr glasses.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/041-vr glasses.svg"
-            }
-        }
-    },
-    "042": {
-        "name": "Vr Glasses",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/042-vr glasses.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/042-vr glasses.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/042-vr glasses.svg"
-            }
-        }
-    },
-    "043": {
-        "name": "Vr Glasses",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/043-vr glasses.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/043-vr glasses.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/043-vr glasses.svg"
-            }
-        }
-    },
-    "044": {
-        "name": "Wireless Internet",
-        "types": {
-            "filled": {
-                "path": "/icons/filled/044-wireless internet.svg"
-            },
-            "flat": {
-                "path": "/icons/flat/044-wireless internet.svg"
-            },
-            "lcolor": {
-                "path": "/icons/lcolor/044-wireless internet.svg"
-            }
+    "line": {
+        "pubserv001": {
+            "name": "University",
+            "path": "/icons/line/pubserv001-university.svg"
+        },
+        "pubserv002": {
+            "name": "Extinguisher",
+            "path": "/icons/line/pubserv002-extinguisher.svg"
+        },
+        "pubserv003": {
+            "name": "Water",
+            "path": "/icons/line/pubserv003-water.svg"
+        },
+        "pubserv004": {
+            "name": "Gas",
+            "path": "/icons/line/pubserv004-gas.svg"
+        },
+        "pubserv005": {
+            "name": "Bus",
+            "path": "/icons/line/pubserv005-bus.svg"
+        },
+        "pubserv006": {
+            "name": "Taxi",
+            "path": "/icons/line/pubserv006-taxi.svg"
+        },
+        "pubserv007": {
+            "name": "Light",
+            "path": "/icons/line/pubserv007-light.svg"
+        },
+        "pubserv008": {
+            "name": "Traffic Sign",
+            "path": "/icons/line/pubserv008-traffic sign.svg"
+        },
+        "pubserv009": {
+            "name": "Parking",
+            "path": "/icons/line/pubserv009-parking.svg"
+        },
+        "pubserv010": {
+            "name": "Garbage Truck",
+            "path": "/icons/line/pubserv010-garbage truck.svg"
+        },
+        "pubserv011": {
+            "name": "Police",
+            "path": "/icons/line/pubserv011-police.svg"
+        },
+        "pubserv012": {
+            "name": "Bin",
+            "path": "/icons/line/pubserv012-bin.svg"
+        },
+        "pubserv013": {
+            "name": "Telephone",
+            "path": "/icons/line/pubserv013-telephone.svg"
+        },
+        "pubserv014": {
+            "name": "Mail",
+            "path": "/icons/line/pubserv014-mail.svg"
+        },
+        "pubserv015": {
+            "name": "Hospital",
+            "path": "/icons/line/pubserv015-hospital.svg"
+        },
+        "pubserv016": {
+            "name": "Elevator",
+            "path": "/icons/line/pubserv016-elevator.svg"
+        },
+        "pubserv017": {
+            "name": "No Smoking",
+            "path": "/icons/line/pubserv017-no smoking.svg"
+        },
+        "pubserv018": {
+            "name": "Wc",
+            "path": "/icons/line/pubserv018-wc.svg"
+        },
+        "pubserv019": {
+            "name": "Road",
+            "path": "/icons/line/pubserv019-road.svg"
+        },
+        "pubserv020": {
+            "name": "Sewer",
+            "path": "/icons/line/pubserv020-sewer.svg"
+        },
+        "pubserv021": {
+            "name": "Hydrant",
+            "path": "/icons/line/pubserv021-hydrant.svg"
+        },
+        "pubserv022": {
+            "name": "Park",
+            "path": "/icons/line/pubserv022-park.svg"
+        },
+        "pubserv023": {
+            "name": "Neighborhood",
+            "path": "/icons/line/pubserv023-neighborhood.svg"
+        },
+        "pubserv024": {
+            "name": "Pivot",
+            "path": "/icons/line/pubserv024-pivot.svg"
+        },
+        "pubserv025": {
+            "name": "Traffic Light",
+            "path": "/icons/line/pubserv025-traffic light.svg"
+        },
+        "pubserv026": {
+            "name": "Traffic Cone",
+            "path": "/icons/line/pubserv026-traffic cone.svg"
+        },
+        "pubserv027": {
+            "name": "Street",
+            "path": "/icons/line/pubserv027-street.svg"
+        },
+        "pubserv028": {
+            "name": "Wifi",
+            "path": "/icons/line/pubserv028-wifi.svg"
+        },
+        "pubserv029": {
+            "name": "Bycicle",
+            "path": "/icons/line/pubserv029-bycicle.svg"
+        },
+        "pubserv030": {
+            "name": "Fuel Station",
+            "path": "/icons/line/pubserv030-fuel station.svg"
+        },
+        "pubserv031": {
+            "name": "Heating",
+            "path": "/icons/line/pubserv031-heating.svg"
+        },
+        "pubserv032": {
+            "name": "Shopping Bag",
+            "path": "/icons/line/pubserv032-shopping bag.svg"
+        },
+        "pubserv033": {
+            "name": "Train",
+            "path": "/icons/line/pubserv033-train.svg"
+        },
+        "pubserv034": {
+            "name": "Airplane",
+            "path": "/icons/line/pubserv034-airplane.svg"
+        },
+        "pubserv035": {
+            "name": "Scooter",
+            "path": "/icons/line/pubserv035-scooter.svg"
+        },
+        "pubserv036": {
+            "name": "Trolley Car",
+            "path": "/icons/line/pubserv036-trolley car.svg"
+        },
+        "pubserv037": {
+            "name": "Cableway",
+            "path": "/icons/line/pubserv037-cableway.svg"
+        },
+        "pubserv038": {
+            "name": "Atm",
+            "path": "/icons/line/pubserv038-atm.svg"
+        },
+        "pubserv039": {
+            "name": "Coffee",
+            "path": "/icons/line/pubserv039-coffee.svg"
+        },
+        "pubserv040": {
+            "name": "Restaurant",
+            "path": "/icons/line/pubserv040-restaurant.svg"
+        },
+        "pubserv041": {
+            "name": "Heater",
+            "path": "/icons/line/pubserv041-heater.svg"
+        },
+        "pubserv042": {
+            "name": "Electric Tower",
+            "path": "/icons/line/pubserv042-electric tower.svg"
+        },
+        "pubserv043": {
+            "name": "Balance",
+            "path": "/icons/line/pubserv043-balance.svg"
+        },
+        "pubserv044": {
+            "name": "Siren",
+            "path": "/icons/line/pubserv044-Siren.svg"
+        },
+        "pubserv045": {
+            "name": "Anchor",
+            "path": "/icons/line/pubserv045-anchor.svg"
+        },
+        "pubserv046": {
+            "name": "Stethoscope",
+            "path": "/icons/line/pubserv046-stethoscope.svg"
+        },
+        "pubserv047": {
+            "name": "Disabled",
+            "path": "/icons/line/pubserv047-disabled.svg"
+        },
+        "pubserv048": {
+            "name": "Recycle Bin",
+            "path": "/icons/line/pubserv048-recycle bin.svg"
+        },
+        "pubserv049": {
+            "name": "Escalator",
+            "path": "/icons/line/pubserv049-escalator.svg"
+        },
+        "pubserv050": {
+            "name": "Baby",
+            "path": "/icons/line/pubserv050-baby.svg"
         }
     }
 }
